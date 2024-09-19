@@ -1,0 +1,20 @@
+[
+{
+  "directory": "F:/VESIT SEMESTER/SEM-3/DAS Project/BUS-RESERVATION-SYSTEM/build",
+  "command": "C:\\Dev-Cpp\\MinGW64\\bin\\g++.exe  @CMakeFiles/ReservationSystemApp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\ReservationSystemApp.dir\\main.cpp.obj -c \"F:\\VESIT SEMESTER\\SEM-3\\DAS Project\\BUS-RESERVATION-SYSTEM\\main.cpp\"",
+  "file": "F:/VESIT SEMESTER/SEM-3/DAS Project/BUS-RESERVATION-SYSTEM/main.cpp",
+  "output": "CMakeFiles/ReservationSystemApp.dir/main.cpp.obj"
+},
+{
+  "directory": "F:/VESIT SEMESTER/SEM-3/DAS Project/BUS-RESERVATION-SYSTEM/build",
+  "command": "C:\\Dev-Cpp\\MinGW64\\bin\\g++.exe  @CMakeFiles/ReservationSystemApp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\ReservationSystemApp.dir\\ReservationSystem.cpp.obj -c \"F:\\VESIT SEMESTER\\SEM-3\\DAS Project\\BUS-RESERVATION-SYSTEM\\ReservationSystem.cpp\"",
+  "file": "F:/VESIT SEMESTER/SEM-3/DAS Project/BUS-RESERVATION-SYSTEM/ReservationSystem.cpp",
+  "output": "CMakeFiles/ReservationSystemApp.dir/ReservationSystem.cpp.obj"
+},
+{
+  "directory": "F:/VESIT SEMESTER/SEM-3/DAS Project/BUS-RESERVATION-SYSTEM/build",
+  "command": "C:\\Dev-Cpp\\MinGW64\\bin\\g++.exe  @CMakeFiles/ReservationSystemApp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\ReservationSystemApp.dir\\Bus.cpp.obj -c \"F:\\VESIT SEMESTER\\SEM-3\\DAS Project\\BUS-RESERVATION-SYSTEM\\Bus.cpp\"",
+  "file": "F:/VESIT SEMESTER/SEM-3/DAS Project/BUS-RESERVATION-SYSTEM/Bus.cpp",
+  "output": "CMakeFiles/ReservationSystemApp.dir/Bus.cpp.obj"
+}
+]

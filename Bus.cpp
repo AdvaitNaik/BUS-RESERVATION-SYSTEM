@@ -34,7 +34,7 @@ void Bus::showStatus() const {
 }
 
 void Bus::saveData() const {
-    std::ofstream file(name + "_data.txt");
+    std::ofstream file((name + "_data.txt").c_str());
     for (int i = 0; i < seats.size(); ++i) {
         if (seats[i]) {
             file << i << " " << reservations.at(i) << "\n";
@@ -44,7 +44,7 @@ void Bus::saveData() const {
 }
 
 void Bus::loadData() {
-    std::ifstream file(name + "_data.txt");
+    std::ifstream file((name + "_data.txt").c_str());
     std::string line, name;
     int seatNumber;
     while (getline(file, line)) {

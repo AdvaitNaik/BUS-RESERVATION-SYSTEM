@@ -8,3 +8,8 @@ This project is a C++ implementation of a bus reservation system, originally dev
 - Cancel reservations
 - View seat statuses
 - Persistent data storage through file handling
+
+## Execute
+g++ main.cpp ReservationSystem.cpp Bus.cpp -o ReservationSystemApp
+./ReservationSystemApp
+

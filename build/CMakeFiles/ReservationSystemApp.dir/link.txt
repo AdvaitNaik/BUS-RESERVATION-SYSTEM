@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ReservationSystemApp.dir/objects.a
+C:\Dev-Cpp\MinGW64\bin\ar.exe qc CMakeFiles\ReservationSystemApp.dir/objects.a @CMakeFiles\ReservationSystemApp.dir\objects1.rsp
+C:\Dev-Cpp\MinGW64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ReservationSystemApp.dir/objects.a -Wl,--no-whole-archive -o ReservationSystemApp.exe -Wl,--out-implib,libReservationSystemApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ReservationSystemApp.dir\linkLibs.rsp
